@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Controler"},{"p":"<Unnamed>","l":"ControlerTest"},{"p":"<Unnamed>","l":"Logic"},{"p":"<Unnamed>","l":"UI"},{"l":"所有类","url":"allclasses-index.html"}]
